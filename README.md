@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Due to saving the file location of my project to my Downloads folder, I've struggled with uploading my files to GitHub.
 
 ## License
 
